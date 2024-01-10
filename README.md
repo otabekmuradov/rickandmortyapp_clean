@@ -1,3 +1,3 @@
-![image_original2](https://github.com/otabekmuradov/rickandmortyapp_clean/assets/89445846/ffce289c-bf2b-4a8e-a599-0b0a80d751bc)
-![image_original](https://github.com/otabekmuradov/rickandmortyapp_clean/assets/89445846/ebcaa581-f73e-42f2-8147-6319f3134608)
-![image_original](https://github.com/otabekmuradov/rickandmortyapp_clean/assets/89445846/d5685e73-62c6-4b7b-91d7-1d6f3019c967)
+![image_original](https://github.com/otabekmuradov/rickandmortyapp_clean/assets/89445846/fbf22da8-700b-4a7b-bfbb-7afb54bbc57f)
+![image_original2](https://github.com/otabekmuradov/rickandmortyapp_clean/assets/89445846/4573761a-3ed8-4b96-8d6d-239d83d59a2e)
+![image_original](https://github.com/otabekmuradov/rickandmortyapp_clean/assets/89445846/fff76e67-799f-4a85-bee3-fec2dbd81bcc)
